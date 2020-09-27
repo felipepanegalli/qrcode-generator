@@ -1,0 +1,14 @@
+{
+    "name": "qrcodeGenerator",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Felipe Panegalli",
+            "email": "felipe.panegalli@gmail.com"
+        }
+    ],
+    "require": {
+        "bacon/bacon-qr-code": "^2.0"
+    }
+}
